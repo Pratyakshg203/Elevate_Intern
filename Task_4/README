@@ -1,0 +1,7 @@
+Gujral E-Sales Power BI Dashboard
+This interactive Power BI dashboard is designed to provide a clear, data-driven overview of e-sales performance using the right set of KPIs such as Total Sales, Profit, and Growth. 
+It features cards for high-level metrics, enabling quick snapshots of performance.
+The dashboard incorporates time-series analysis to track trends over months and weekdays, helping identify peak sales periods. 
+Slicers and filters are added to allow users to drill down by state and quarter, enhancing interactivity and personalization. 
+A consistent color theme has been applied throughout to ensure a visually cohesive and professional appearance.
+This solution supports strategic decision-making by highlighting top-performing products, underperforming categories, and regional disparities in revenue.
