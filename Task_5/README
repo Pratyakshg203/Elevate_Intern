@@ -1,0 +1,42 @@
+Titanic EDA and Survival Prediction
+Overview
+In this project, I performed Exploratory Data Analysis (EDA) on the Titanic dataset to understand the factors that influenced passenger survival. The goal was to uncover key insights and relationships between different features such as Age, Sex, Pclass, and Fare, which could help predict survival on the Titanic.
+
+What I Did:
+Data Overview:
+
+Loaded the Titanic dataset and explored basic information about the data.
+
+Identified missing values and provided summary statistics for numerical features.
+
+Univariate Analysis:
+
+Analyzed the distribution of key variables like Survived, Pclass, Sex, Age, and Fare.
+
+Created histograms, boxplots, and countplots to visualize the data.
+
+Bivariate Analysis:
+
+Explored the relationship between the target variable Survived and other features like Sex, Pclass, Age, and Fare.
+
+Used countplots and histograms to visualize survival rates based on categorical and numerical features.
+
+Multivariate Analysis:
+
+Generated a correlation heatmap to identify relationships between numerical features.
+
+Created a pairplot to visualize how different features relate to survival and each other.
+
+Insights:
+
+Found that females had a significantly higher survival rate than males.
+
+1st class passengers had a much higher survival rate compared to 3rd class passengers.
+
+Higher Fare was correlated with higher survival chances.
+
+Children under 10 years old had a higher chance of survival.
+
+Conclusion:
+The analysis highlighted the importance of Sex, Pclass, Fare, and Age in determining survival. These insights can be used for further predictive modeling, with the next steps including feature engineering and training machine learning models.
+
