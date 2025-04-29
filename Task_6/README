@@ -1,0 +1,13 @@
+Summary
+The SQL script performs monthly sales aggregation by:
+Extracting year and month from the order date
+Calculating total revenue (quantity_ordered * price_each)
+Counting distinct orders per month
+Limiting results to a specified date range (e.g., 2003–2004)
+Sorting results chronologically
+Output
+The result is a time series table showing:
+order_year
+order_month
+total_revenue
+total_orders
