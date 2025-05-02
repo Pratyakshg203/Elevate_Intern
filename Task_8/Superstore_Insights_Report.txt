@@ -1,0 +1,28 @@
+Overall Performance
+- Total Sales: $2.3 million
+- Total Profit: $286,400
+- Total Quantity Sold: 38,000 units
+
+Detailed Insights:-
+1. Segment Analysis
+- Consumer segment is the most profitable, accounting for over 50% of total sales.
+- Corporate and Home Office segments performs almost equally in both sales and profit contribution.
+
+2. Regional Insights
+- The West and East regions contribute the highest sales.
+- The Central region has relatively low profit margins despite moderate sales.
+
+3. Category and Sub-Category Performance
+- Technology has the highest overall sales and profit among the categories.
+- Within Technology, Phones and Accessories lead in sales.
+- Tables under Furniture show negative profit, Blinders under office supplies show negative profit despite being high in sales.
+
+4. Shipping Mode Trends
+- Standard Class is the dominant shipping mode, used in most orders.
+- First class contain Equal profit margins to Standard class Despite of lesser usage.
+
+5. Seasonal Trends
+- November and December show significant spikes in both sales and profit—likely due to holiday season promotions.
+
+6. Discount Impact
+- There's a clear inverse relationship between discount and profitability.
