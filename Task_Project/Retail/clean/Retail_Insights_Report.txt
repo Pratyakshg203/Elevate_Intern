@@ -1,0 +1,51 @@
+Overall Performance
+- Total Sales: Rs.2.22M
+- Total Profit: Rs.205.17K
+= Total Quantity Sold: 38K units
+
+Detailed Insights:-
+1.Regional & State Performance
+- West Region dominates in profitability, especially California.
+- Central Region also contributes significantly, mainly from Texas.
+- East Region shows balanced performance with New York, Ohio, and Pennsylvania.
+- South Region lags slightly in profit contribution.
+
+2.Category & Sub-Category Analysis
+- Technology is the top-performing category in both sales and profit.
+- Within Furniture, Chairs and Tables show high profit volatility.
+- Office Supplies like Binders, Storage, and Labels show varied sales but moderate profits.
+
+Profit by Discount
+- Profit decreases significantly with increasing discount rates.
+- A few peaks suggest high profit at mid-range discounts, but generally:
+- Higher discounts -> Lower profit margins
+
+3.Sales by Ship Mode
+- Standard Class is the most-used shipping method by volume.
+- Second Class and First Class are less utilized.
+
+4.Top Products by Sale Price
+- Technology products dominate the top-selling list.
+- Office Supplies follow closely behind.
+
+5.Monthly Trends
+- Sales and Profit fluctuate monthly with peaks in March, October, and December.
+- June, July, and August show dips, suggesting room for targeted promotions.
+
+6.Category Distribution (Pie Chart)
+- Technology leads in both sales (33.33%) and profit.
+- Furniture follows with ~29.5% of sales and moderate profit.
+- Office Supplies lags in profitability despite ~28.65% of sales.
+
+7.Segment Performance (Donut Chart)
+- Corporate Segment brings the highest sales and profit (46.25% of sales).
+- Consumer Segment shows good volume but lower profit share.
+- Home Office contributes the least.
+
+Summary of Key Insights
+- Technology is the most profitable category -> Invest in tech products.
+- California and Texas are top profitable states -> Focus marketing & logistics.
+- Discounts hurt profits -> Optimize discounting strategy.
+- Corporate customers drive revenue -> Prioritize B2B sales.
+- Sales dip in summer months -> Launch summer campaigns.
+- Standard shipping dominates -> Assess shipping efficiency.
